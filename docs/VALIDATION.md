@@ -10,6 +10,8 @@ Three complete campaigns exercise all nine patterns and reach the ending on Easy
 
 A separate test fires real player shots and predicts boss movement for all 27 spell/difficulty combinations. Each spell can be captured within its 38-second limit at maximum power. Invulnerability isolates damage output from dodging, so these results establish attainable damage with uninterrupted aim, not a guarantee of an easy capture.
 
+An additional Easy run used an automated pilot with ordinary movement, shooting, and bombs. It reached victory in 6 minutes 34 seconds with zero deaths, zero continues, and five bombs used. That run made no invulnerability, health, or mode edits and checked simulation invariants each frame. It demonstrates a survivable control path; human difficulty testing remains a separate judgment.
+
 ## Application
 
 `scarlet-mesa --smoke-test <directory>` queues keyboard events through SDL and checks menu navigation, difficulty, dialogue, movement, focused movement, shooting, pause/resume, once-per-press bombs, autofire, mute, and every practice encounter. It saves eight rendered BMP screenshots. The Python wrapper also tests a missing audio backend and checks that play continues silently.
