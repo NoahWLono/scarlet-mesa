@@ -1,0 +1,8 @@
+/build*/
+/dist/
+/smoke-artifacts/
+/package-smoke/
+/extracted/
+*.user
+.DS_Store
+__pycache__/

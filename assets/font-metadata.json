@@ -1,0 +1,80 @@
+{
+  "family": "JetBrains Mono (ASCII from the Nerd Font Mono build)",
+  "copyright": "Copyright 2020 The JetBrains Mono Project Authors",
+  "upstream": "https://github.com/JetBrains/JetBrainsMono",
+  "license": "SIL Open Font License 1.1; see FONT-LICENSE.txt",
+  "image_size_px": [
+    512,
+    264
+  ],
+  "cell_size_px": [
+    32,
+    44
+  ],
+  "columns": 16,
+  "rows": 6,
+  "first_codepoint": 32,
+  "last_codepoint": 126,
+  "unused_cell": 95,
+  "glyph_origin_x_px": 5,
+  "baseline_y_px": 34,
+  "pixel_format": "RGB24 BMP; grayscale white glyphs on black background",
+  "texture_conversion": "Copy grayscale intensity to alpha; set RGB to white.",
+  "display_atlas": "font-display.bmp uses the same layout at 4x resolution.",
+  "variants": [
+    {
+      "file": "font.bmp",
+      "source_font": "JetBrainsMonoNerdFontMono-Regular.ttf",
+      "source_sha256": "f2a5ea6cfab397445ffab00c0370927b66d61e560a05db5db271b42006381c1a",
+      "font_size_px": 36,
+      "advance_px": 21.59375,
+      "scale": 1,
+      "image_size_px": [
+        512,
+        264
+      ],
+      "cell_size_px": [
+        32,
+        44
+      ],
+      "glyph_origin_x_px": 5,
+      "baseline_y_px": 34
+    },
+    {
+      "file": "font-bold.bmp",
+      "source_font": "JetBrainsMonoNerdFontMono-Bold.ttf",
+      "source_sha256": "bfcf9a917276ffc058867d87cbc8a5b2f1ab0f4b710e9170dc02763ccb80bd4b",
+      "font_size_px": 36,
+      "advance_px": 21.59375,
+      "scale": 1,
+      "image_size_px": [
+        512,
+        264
+      ],
+      "cell_size_px": [
+        32,
+        44
+      ],
+      "glyph_origin_x_px": 5,
+      "baseline_y_px": 34
+    },
+    {
+      "file": "font-display.bmp",
+      "source_font": "JetBrainsMonoNerdFontMono-Bold.ttf",
+      "source_sha256": "bfcf9a917276ffc058867d87cbc8a5b2f1ab0f4b710e9170dc02763ccb80bd4b",
+      "font_size_px": 144,
+      "advance_px": 86.40625,
+      "scale": 4,
+      "image_size_px": [
+        2048,
+        1056
+      ],
+      "cell_size_px": [
+        128,
+        176
+      ],
+      "glyph_origin_x_px": 20,
+      "baseline_y_px": 136
+    }
+  ]
+}

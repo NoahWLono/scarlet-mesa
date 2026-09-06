@@ -1,0 +1,20 @@
+Title illustration: title.png and title.bmp
+Created for Touhou: Scarlet Mesa - Unaligned in San Francisco, 2026-09-06.
+Generated with the built-in OpenAI image generation tool from the original
+composition prompt in title-prompt.txt. No official game art was extracted
+or used as an input. title.bmp is an RGB format conversion of title.png.
+
+Artwork depicts Reimu Hakurei and Yukari Yakumo from Touhou Project.
+Touhou Project and its characters belong to ZUN / Team Shanghai Alice.
+This is an unofficial fan work and has no affiliation with its creators.
+
+Native image dimensions: 1672 x 941 pixels.
+Composition: quiet dark left area, Golden Gate Bridge and characters at right.
+
+Font atlases: font.bmp, font-bold.bmp, and font-display.bmp
+Rasterized from locally installed JetBrains Mono Nerd Font Mono regular and
+bold builds. Only printable ASCII glyphs are included. JetBrains Mono was
+created by the JetBrains Mono Project Authors and is distributed under the
+SIL Open Font License 1.1, copied in FONT-LICENSE.txt.
+Source font hashes and exact atlas metrics are in font-metadata.json.
+font-display.bmp renders the bold face at four times the standard resolution.
